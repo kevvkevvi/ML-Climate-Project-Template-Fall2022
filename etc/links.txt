@@ -11,3 +11,5 @@ https://auto.howstuffworks.com/lithium-ion-batteries-improve-hybrids1.htm
 https://docs.google.com/spreadsheets/d/10w5yXdQtlQjTTS3BxPP233CiiBScIXecUp2OQuvJ_JI/edit#gid=0
 
 https://data.nasa.gov/dataset/Li-ion-Battery-Aging-Datasets/uj5r-zjdb
+
+https://medium.com/batterybits/comparison-of-open-datasets-for-lithium-ion-battery-testing-fd0de091ca2
